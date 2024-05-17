@@ -36,6 +36,9 @@ modification sur le client:
 ![Capture5](https://github.com/clsmoker88/checkpoint2/assets/81968235/376b36dd-4ce5-4468-8d55-5955cea35cd0)
 
 
+faire un ipconfig /release et un ipconfig /renew et notre client a une adresse IP attribuer par le DHCP
+
+
 ![Capture6](https://github.com/clsmoker88/checkpoint2/assets/81968235/f73b823c-862e-4e7d-8997-1deabcee7421)
 
 
