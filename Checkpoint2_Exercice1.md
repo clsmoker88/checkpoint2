@@ -31,6 +31,8 @@ il suffit juste de reactiver l'IPV6
 Q1.4
 
 modification sur le client:
+
+
 ![Capture5](https://github.com/clsmoker88/checkpoint2/assets/81968235/376b36dd-4ce5-4468-8d55-5955cea35cd0)
 
 
