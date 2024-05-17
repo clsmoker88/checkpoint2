@@ -1,4 +1,5 @@
 Q1.1 
+
 ![image](https://github.com/clsmoker88/checkpoint2/assets/81968235/3d0d89dc-2558-49ac-83b3-db7803f4147c)
 
 le serveur est en 172.16.10.10/24 alors que le client est en 172.16.100.50/24
@@ -26,6 +27,7 @@ il suffit juste de reactiver l'IPV6
 
 
 Q1.4
+
 modification sur le client:
 ![Capture6](https://github.com/clsmoker88/checkpoint2/assets/81968235/f73b823c-862e-4e7d-8997-1deabcee7421)
 
@@ -35,6 +37,7 @@ faire un ipconfig /release et un ipconfig /renew et notre client a une adresse I
 ![capture7](https://github.com/clsmoker88/checkpoint2/assets/81968235/c862a111-46a9-4bb6-a0df-d234f0b8d10a)
 
 Q1.5
+
 ![image](https://github.com/clsmoker88/checkpoint2/assets/81968235/b190e450-2a0b-4363-83e0-2ceb8c0bf00a)
 
 il y a une plage d'adresse IP qui prend de 172.16.10.1 a 172.16.10.19 donc la premiere adresse disponible est la 172.16.10.20
@@ -46,4 +49,5 @@ Q1.6
 ![image](https://github.com/clsmoker88/checkpoint2/assets/81968235/baba5919-b82c-4199-b31f-a736149049fa)
 
 je fait une reservation d'adresse
+
 ![image](https://github.com/clsmoker88/checkpoint2/assets/81968235/7e307629-1129-41e0-9ac9-33f88e53dae4)
