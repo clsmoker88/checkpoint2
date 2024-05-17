@@ -42,8 +42,6 @@ faire un ipconfig /release et un ipconfig /renew et notre client a une adresse I
 ![Capture6](https://github.com/clsmoker88/checkpoint2/assets/81968235/f73b823c-862e-4e7d-8997-1deabcee7421)
 
 
-faire un ipconfig /release et un ipconfig /renew et notre client a une adresse IP attribuer par le DHCP
-
 ![capture7](https://github.com/clsmoker88/checkpoint2/assets/81968235/c862a111-46a9-4bb6-a0df-d234f0b8d10a)
 
 Q1.5
