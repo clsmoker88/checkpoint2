@@ -23,6 +23,8 @@ Q1.3
 une fois l'IPV6 desactiver j'ai une reponse en IPV4
 il suffit juste de reactiver l'IPV6
 ![capture4](https://github.com/clsmoker88/checkpoint2/assets/81968235/5396e321-bdd4-41ec-918f-2cc75ab505b5)
+
+
 ![Capture5](https://github.com/clsmoker88/checkpoint2/assets/81968235/376b36dd-4ce5-4468-8d55-5955cea35cd0)
 
 
