@@ -2,7 +2,7 @@
 - faire un clique droit sur le dossier script
 - aller dans l'onglet sharing
 
-![alt text](image-11.png)
+https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/cl_smoker/Desktop/wild-code-school/checkpoint2/image-11.png
 
 - cliquer sur Advanced Sharing
 - cocher la case Share this folder 
